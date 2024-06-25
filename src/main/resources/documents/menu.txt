@@ -1,0 +1,84 @@
+====================================
+      La Cocina Peruana
+====================================
+
+           Menu
+
+------------------------------------
+         Entradas (Appetizers)
+------------------------------------
+1. Ceviche Clasico - $12.00
+   Fresh fish marinated in lime juice, mixed with red onions, cilantro, and Peruvian corn.
+
+2. Anticuchos - $10.00
+   Skewers of marinated beef heart, grilled to perfection, served with a spicy aji sauce.
+
+3. Papa a la Huancaína - $8.00
+   Sliced boiled potatoes covered in a creamy, spicy cheese sauce, garnished with olives and hard-boiled eggs.
+
+4. Tiradito - $11.00
+   Sashimi-style fish in a tangy and spicy yellow pepper sauce.
+
+------------------------------------
+           Platos Fuertes (Main Courses)
+------------------------------------
+5. Lomo Saltado - $15.00
+   Stir-fried beef with onions, tomatoes, and peppers, served with French fries and rice.
+
+6. Pollo a la Brasa - $14.00
+   Peruvian rotisserie chicken served with salad and fries.
+
+7. Arroz con Mariscos - $18.00
+   Peruvian-style seafood paella with a blend of spices and fresh seafood.
+
+8. Ají de Gallina - $13.00
+   Shredded chicken in a creamy, spicy yellow pepper sauce, served with rice and boiled potatoes.
+
+9. Seco de Cordero - $16.00
+   Slow-cooked lamb in a cilantro-based sauce, served with rice and beans.
+
+10. Causa Rellena - $9.00
+    Layered potato dish filled with chicken or tuna, avocado, and aji amarillo.
+
+------------------------------------
+            Postres (Desserts)
+------------------------------------
+11. Suspiro a la Limeña - $7.00
+    A rich and creamy caramel-like dessert topped with meringue.
+
+12. Mazamorra Morada - $6.00
+    Purple corn pudding with dried fruits and spices.
+
+13. Picarones - $8.00
+    Sweet potato and squash doughnuts served with a spiced syrup.
+
+14. Turrón de Doña Pepa - $7.00
+    A traditional anise-flavored nougat with layers of cookies and syrup.
+
+15. Alfajores - $5.00
+    Soft shortbread cookies filled with creamy dulce de leche.
+
+------------------------------------
+            Bebidas (Drinks)
+------------------------------------
+16. Chicha Morada - $3.00
+    Refreshing drink made from purple corn, spiced with cinnamon and cloves.
+
+17. Inca Kola - $2.50
+    The famous Peruvian soft drink with a sweet, fruity flavor.
+
+18. Pisco Sour - $8.00
+    The classic Peruvian cocktail made with pisco, lime juice, simple syrup, egg white, and bitters.
+
+19. Maracuya (Passion Fruit Juice) - $4.00
+    Freshly squeezed passion fruit juice, sweet and tangy.
+
+20. Cusqueña - $5.00
+    Premium Peruvian beer with a crisp and refreshing taste.
+
+------------------------------------
+
+Thank you for dining with us!
+We hope you enjoy the authentic flavors of Peru.
+
+====================================
